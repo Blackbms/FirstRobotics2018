@@ -45,6 +45,7 @@ Yes, I have **GitHub** stickers as **SWAG**
 * Where **This** presentation is hosted and displayed from.
 * Currently in acquisition talks with Microsoft
 * [GitHub Education](https://education.github.com/teachers) A special program that GitHub has to help educators
+* [Post from new CEO](https://natfriedman.github.io/hello/)
 
 ---
 
