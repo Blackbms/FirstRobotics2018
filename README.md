@@ -53,4 +53,9 @@ Yes, I have **GitHub** stickers as **SWAG**
 * Has **Pull Requests** so that your team can discuss changes to the repository prior to making the changes **Live**
 * Has a **Wiki** which you can use to communicate project details
 * Has **GitHub Pages** which is a way to have a **Website** for your project, and what is being used for this **Presentation**
-* Has well definfed integrations with other tools such as **Jenkins**, **CircleCI**, **etc**  for Continuous Integration and Continuous Delivery activities.
+* Has well defined integrations with other tools such as **Jenkins**, **CircleCI**, **etc**  for Continuous Integration and Continuous Delivery activities.
+
+---
+
+class: middle, center
+# Demo GitHub Items  
