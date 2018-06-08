@@ -44,7 +44,6 @@ Yes, I have **GitHub** stickers as **SWAG**
    * 52% of the Fortune 50 companies are GitHub Enterprise customers
 * Where **This** presentation is hosted and displayed from.
 * Currently in acquisition talks with Microsoft
-* [GitHub Education](https://education.github.com/teachers) A special program that GitHub has to help educators
 
 ---
 
@@ -60,10 +59,3 @@ Yes, I have **GitHub** stickers as **SWAG**
 
 class: middle, center
 # Demo GitHub Items  
-
----
-
-# Workflow
-
-* [GitHub Flow Overview](https://guides.github.com/introduction/flow/)
-* [Help Visualize Branching](http://git-school.github.io/visualizing-git/)
