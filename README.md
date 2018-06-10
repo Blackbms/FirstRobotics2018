@@ -58,11 +58,13 @@ Yes, I have **GitHub** stickers as **SWAG**
 * Has well defined integrations with other tools such as **Jenkins**, **CircleCI**, **etc**  for Continuous Integration and Continuous Delivery activities.
 
 ---
+exclude: true
 
 class: middle, center
 # Demo GitHub Items  
 
 ---
+exclude: true
 
 # Workflow
 
